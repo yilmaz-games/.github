@@ -3,3 +3,6 @@
 ### check out our games
 - [okey.gg](https://okey.gg/?utm_source=github&utm_medium=social&utm_campaign=studio_cross_promo&utm_content=ygop&utm_term=dot_github_profile_readme)
 - coming soon 😏
+
+### open source contributions
+- [steamworks-api-simplified](https://github.com/yilmaz-games/steamworks-api-simplified) - The Steam API guide we wish existed.
